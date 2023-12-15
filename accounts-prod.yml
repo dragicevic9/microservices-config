@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Mika Mikic - Product Owner"
-    email: "mika.mikic@levi9.com"
+    email: "{cipher}f76717684c74dfff6fa8c9d43fdceae135b3654ed4446b887db7eefebb564eff67d72b8d498201d77810845f68848fd9"
   onCallSupport:
     - (111)125-1234
     - (111)632-1345
